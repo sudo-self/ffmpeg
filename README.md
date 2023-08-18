@@ -1,6 +1,6 @@
-# ffmpeg
+# ffmpeg convert video formats from the command line
 
-brew install ffmpeg
+## open terminal and run: brew install ffmpeg
 
 <img width="499" alt="Screenshot 2023-08-18 at 6 11 04 AM" src="https://github.com/sudo-self/ffmpeg/assets/119916323/631ad4c4-c978-4c24-b509-d8bb93bb4249">
 
