@@ -12,6 +12,8 @@
 
 ### ffmpeg -i iphone.mov iphonez.gif
 
+### ffmpeg -i in.mov -pix_fmt rgb8 -r 10 output.gif && gifsicle -O3 output.gif -o output.gif### 
+
 ### .mov ---> .ogg
 
 ### ffmpeg -i iphone.mov iphone.ogg
